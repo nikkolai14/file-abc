@@ -1,0 +1,11 @@
+body { 
+    font-family: "Poppins", serif;
+}
+
+footer {
+    background-color: var(--bs-gray-300);
+}
+
+.dropzone {
+    background-color: var(--bs-gray-200);
+}

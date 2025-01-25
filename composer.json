@@ -1,0 +1,17 @@
+{
+    "name": "nikkolaifernandez/file-abc",
+    "autoload": {
+        "psr-4": {
+            "Nikkolaifernandez\\FileAbc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikko",
+            "email": "nikkolaifernandez14@gmail.com"
+        }
+    ],
+    "require": {
+        "qaamgo/onlineconvert-api-sdk": "^3.1"
+    }
+}
